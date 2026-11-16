@@ -179,3 +179,8 @@ renderings/
 visualizations/
 
 .cursorignore
+# Generated extension outputs
+__pycache__/
+*.pyc
+report.json
+report.html
